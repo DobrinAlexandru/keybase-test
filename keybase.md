@@ -2,9 +2,9 @@
 
 I hereby claim:
 
-  * I am psobot on github.
-  * I am psobot (https://keybase.io/alexdobrin) on keybase.
-  * I have a public key whose fingerprint is B8C4 380D 42A7 C58C 9528  93AD 66BD 052C A0BF 6065
+  * I am dobrinalexandru on github.
+  * I am alexdobrin (https://keybase.io/alexdobrin) on keybase.
+  * I have a public key ASBWFOpCLt5yclyBjjkXOjD1XrCqTWEFlrsxz8KYL7mEVAo
 
 To claim this, I am signing this object:
 
@@ -44,16 +44,10 @@ To claim this, I am signing this object:
 }
 ```
 
-with the PGP key whose fingerprint is
-[ASBWFOpCLt5yclyBjjkXOjD1XrCqTWEFlrsxz8KYL7mEVAo](https://keybase.io/alexdobrin)
-(captured above as `body.key.fingerprint`), yielding the PGP signature:
+with the key [ASBWFOpCLt5yclyBjjkXOjD1XrCqTWEFlrsxz8KYL7mEVAo](https://keybase.io/alexdobrin), yielding the signature:
 
 ```
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1
-
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg02d8IE6+/G8wzGtd0d8p6TRbnOs2PBzqG0vgQFOpamIKp3BheWxvYWTESpcCBsQgYJvgTgIfcWYljBo0XcPf2g015W8wBcRCE7Of9YBP3rvEIPb5TSRvLtTecLQm5QQWl6tOUPqg9VnS4Q85h3hNQMjlAgHCo3NpZ8RAnTBvCSVmkzaekxtiv5IlvaOtKp1AJMq870Jd3TmLtK6hbytL9dsruDPv81QMVYwTnd1P8s1Bb6A9ZrIMlEy7A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFIGvyM3UjF1TipJmXtHPhQjYLW+EyCuKhrBaDs9EfM5o3RhZ80CAqd2ZXJzaW9uAQ==
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVhTqQi7ecnJcgY45Fzow9V6wqk1hBZa7Mc/CmC+5hFQKp3BheWxvYWTESpcCDMQg9vdYEg/sKw6bw9NRVxzpiIYCrj4HPDS5WmT9k/xEN2XEIIpRhrR1SHuiKKQYpHWNCkLknK+wtohpUHG2z5eiur3MAgHCo3NpZ8RAKiGB+KGlX5kn9E1padA63XxhdF1hVJcotJe1txJXQ1+0r1FF4Dlley7uGMfy9Rlo2NfNsKQ+WW6QDgMejhvTBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHiLZ4f7I6Xs2Pb1rYl5tYYGXwB0GWkk9VVKzmtPCfjXo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
@@ -65,14 +59,9 @@ https://keybase.io/alexdobrin
 
 ### From the command line:
 
-Consider the [keybase command line program](https://keybase.io/__/command_line/keybase).
+Consider the [keybase command line program](https://keybase.io/download).
 
 ```bash
 # look me up
 keybase id alexdobrin
-
-# encrypt a message to me
-keybase encrypt alexdobrin -m 'a secret message...'
-
-# ...and more...
 ```
